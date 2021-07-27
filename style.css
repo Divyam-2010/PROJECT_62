@@ -1,0 +1,44 @@
+.imgg {
+    height: 100px;
+    width: 250px;
+}
+
+body {
+    text-align: center;
+}
+
+.flowerimg {
+    height: 200px;
+    width: 100%;
+}
+
+#gif {
+    width: 100%;
+    height: 500px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.link {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.link:hover {
+    text-decoration: underline;
+    font-size: 29px;
+}
